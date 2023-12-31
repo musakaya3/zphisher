@@ -16,8 +16,7 @@ body:
       multiple: false
       options:
         - Linux / Desktop
-        - Termux / Android
-        - Windows (lol)
+        - Termux / Android 
 
   - type: textarea
     id: description
